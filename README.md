@@ -1,2 +1,2 @@
-# swarm-key-
-simple swarm key for ipfs private swarm.
+# swarm-key
+a simple swarm key generator for ipfs private swarm.
