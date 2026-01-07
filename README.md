@@ -1,2 +1,3 @@
-# swarm-key
-a simple swarm key generator for ipfs private swarm.
+# Swarm Key Generator
+
+A simple Python script to generate a `swarm.key` for private IPFS networks.
